@@ -8,7 +8,7 @@ For more information about Molecular Networking check out the [GNPS publication]
 
 ## Data Input Preparation
 
-The follow data is can be put into molecular networking.
+The following data can be incorporated into molecular networking.
 
 1. Mass Spectrometry data files (required)
 2. Metadata/Group Mapping (optional)
